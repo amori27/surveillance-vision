@@ -2,7 +2,7 @@
 
 [![CI/CD](https://github.com/amori27/surveillance-vision/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/amori27/surveillance-vision/actions)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > Intelligent monitoring with YOLOv8 detection, ByteTrack tracking, and automated incident logging. Supports RTSP IP cameras and local webcams.
 
