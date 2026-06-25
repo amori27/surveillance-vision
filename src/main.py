@@ -1,7 +1,6 @@
 """Main surveillance loop."""
 
 import cv2
-import numpy as np
 from src.core.config import settings
 from src.core.detector import Detector
 from src.core.event_logger import EventLogger
