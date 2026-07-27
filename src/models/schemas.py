@@ -1,3 +1,5 @@
+"""Pydantic models for detection results and logged events."""
+
 from pydantic import BaseModel
 
 

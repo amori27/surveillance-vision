@@ -1,3 +1,5 @@
+"""Application-wide settings loaded from environment variables."""
+
 import os
 
 
